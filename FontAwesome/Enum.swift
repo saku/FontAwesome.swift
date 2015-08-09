@@ -27,6 +27,7 @@ public enum FontAwesome: String {
     case AlignJustify = "\u{f039}"
     case AlignLeft = "\u{f036}"
     case AlignRight = "\u{f038}"
+    case Amazon = "\u{f270}"
     case Ambulance = "\u{f0f9}"
     case Anchor = "\u{f13d}"
     case Android = "\u{f17b}"
